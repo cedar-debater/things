@@ -1,5 +1,5 @@
 
-I have an issue here. It is:
+I have an issue and it is:
 
 
 What I expect it to do is:
