@@ -7,17 +7,19 @@ def get_input(prompt, inputs_already):
       self.string = string
     def integer(self):
       try:
-        return float(self.string)
+        return int(float(self.string))
       except:
         try:
           return int(self.string)
         except:
           raise ValueError("Invalid content in self.string")
+    def __str__(self):
+      return self.string
   typeof = raw_input(prompt)
   try:
     return [String(typeof).integer()+1, typeof]
   except:
-    the_list = list(str(String(typeof).integer()))
+    the_list = list(str(String(typeof)))
     the_list.pop()
     the_list.pop()
     return ["".join(the_list), typeof]
