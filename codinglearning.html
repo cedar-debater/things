@@ -5,7 +5,9 @@
     <div id="div_styles" class="head" class="div">
     </div>
     <div id="div_loading_javascript_scripts" class="head" class="div">
-      
+      <script>function nothing() {}</script>
+      <script>function doclick() {document.getElementById("anchour_seach").innerHTML="Searching Page";return nothing}</script>
+      <script>document.getElementById("anchour_search").addEventListener("onload", doclick)</script>
     </div>
   </head>
   <body id="body_body" class="body">
@@ -13,6 +15,6 @@
       <a id="anchour_search" class="body" class="a" href="\searching.py"></a>
     </div>
     <div id="div_loaded_javascript_scripts" class="body" class="div">
-      <script id="script_javascript_one" class="body" class="script">document.getElementById("anchour_search").innerHTML = "Searching Page"</script>
+      <script id="script_javascript_one" class="body" class="script"></script>
   </body>
 </html>
