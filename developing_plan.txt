@@ -1,3 +1,8 @@
 1. If not enough protein, then no progress
 2. create a index of web pages
 3. decide which visitors we want to attract
+
+
+Extracurriculum:
+9599 test as prime number by hand calculation:
+29*331= 9599!
