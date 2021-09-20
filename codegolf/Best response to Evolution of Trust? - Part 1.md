@@ -14,9 +14,7 @@ The amount of rounds is given in the input. There are no mistakes, and the rewar
 
 ![See https://i.stack.imgur.com/qyEIQ.jpg][2]
 
-<sub>Yes, this is basically a Prisoner's Dilemma - [Nicky Case] says this in the “[feetnotes]” of the game.
-
-Also, "Cheat" is basically the same as Defect.</sub>
+<sub>Yes, this is basically a Prisoner's Dilemma - [Nicky Case] says this in the “[feetnotes]” of the game.<br>Also, "Cheat" is basically the same as Defect.</sub>
 
 ## The characters
  * Copycat `copycat`
