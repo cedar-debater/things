@@ -14,6 +14,8 @@ The amount of rounds is given in the input. There are no mistakes, and the rewar
 
 ![See https://i.stack.imgur.com/qyEIQ.jpg][2]
 
+<sub>Yes, this is basically a Prisoner's Dilemma. Cheat is basically the same as Defect. [Nicky Case] says this in the “[feetnotes]” of the game.</sub>
+
 ## The characters
  * Copycat `copycat`
  * Always Cooperate `alwayscooperate`
@@ -69,3 +71,5 @@ grudger 1
 
   [1]: https://ncase.me/trust "*trust* me, this is a tooltip (pun intended)"
   [2]: https://i.stack.imgur.com/qyEIQ.jpg
+  [Nicky Case]: http://ncase.me/
+  [feetnotes]: https://ncase.me/trust/notes/
